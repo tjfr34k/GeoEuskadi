@@ -1,0 +1,1760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document id="RI_PASAIA">
+<name>Ruinas industriales de Pasaia</name>
+<ScreenOverlay> <name>Leyenda</name> <overlayXY x="0" y="1" xunits="fraction" yunits="fraction" /><screenXY x="0" y="1" xunits="fraction" yunits="fraction" /> <Icon><href>leyenda_ri.png</href></Icon> </ScreenOverlay>
+  <Snippet></Snippet>
+<Style id="liststyle"> 
+<ListStyle> 
+<ItemIcon> 
+<href>gvasco.png</href> 
+</ItemIcon> 
+</ListStyle> 
+</Style> 
+ <styleUrl>liststyle</styleUrl>
+
+	<Placemark>
+      <name>Muelle de Pysbe (Pasaia Donibane)</name>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-089/93-RI01</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Autoridad Portuaria de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>73053,52</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/pysbe1.jpg' alt='MUELLE DE PYSBE' width=‘100%’ height=‘auto’ border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>1993</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>1,8</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.915032,43.322729,0.000000 -1.914767,43.322997,0.000000 -1.914341,43.322800,0.000000 -1.914618,43.322516,0.000000 -1.915032,43.322729,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Pabellón Sarobe</name>
+      <styleUrl>#PolyStyle01</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-073/95-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Autoridad Portuaria de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>28077,05</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/pysbe2.jpg' alt='PABELL&Oacute;N SARAOBE' width=‘100%’ height=‘auto’ border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>1995</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,5</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.916635,43.323927,0.000000 -1.916389,43.324023,0.000000 -1.915964,43.323886,0.000000 -1.915904,43.323799,0.000000 -1.916372,43.323587,0.000000 -1.916635,43.323927,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>4 Pabellones Industriales</name>
+      <styleUrl>#PolyStyle02</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-079/96-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Autoridad Portuaria de Pasajes</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>91220,15</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/4pabilioi.jpg' alt='4 PABELLONES INDUSTRIALES' width=‘100%’ height=‘auto’ border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>1996</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,4</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.937062,43.321238,0.000000 -1.936231,43.321380,0.000000 -1.936103,43.320971,0.000000 -1.936937,43.320830,0.000000 -1.937062,43.321238,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.937540,43.321303,0.000000 -1.937586,43.321448,0.000000 -1.937414,43.321475,0.000000 -1.937380,43.321327,0.000000 -1.937540,43.321303,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.937875,43.321661,0.000000 -1.937959,43.321979,0.000000 -1.937745,43.322012,0.000000 -1.937664,43.321698,0.000000 -1.937875,43.321661,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.934875,43.321789,0.000000 -1.934923,43.322081,0.000000 -1.934170,43.322160,0.000000 -1.934122,43.321854,0.000000 -1.934793,43.321749,0.000000 -1.934875,43.321789,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.923171,43.322858,0.000000 -1.923019,43.322857,0.000000 -1.923048,43.322467,0.000000 -1.923489,43.322466,0.000000 -1.923171,43.322858,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Taller Mecánico</name>
+      <styleUrl>#PolyStyle03</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-045/97-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Autoridad Portuaria de Pasajes</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>42124,76</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/taller1.jpg' alt='TALLER MEC&Aacute;NICO DEL PUERTO DE PASAIA' width=‘100%’ height=‘auto’ border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>1997</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,2</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.922963,43.322852,0.000000 -1.922547,43.322849,0.000000 -1.922556,43.322462,0.000000 -1.922991,43.322470,0.000000 -1.922963,43.322852,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Edificio c/ Pescadería nº6</name>
+      <styleUrl>#PolyStyle03</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-129/97-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>93286,16</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/pescaderia6.jpg' alt='EDIFICIO DE LA C/PESCADERIA, N&ordm;4' width=‘100%’ height=‘auto’ border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>1997</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,15</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.931132,43.324353,0.000000 -1.931193,43.323804,0.000000 -1.931637,43.323826,0.000000 -1.931567,43.324373,0.000000 -1.931132,43.324353,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Edificio c/ Pescadería nº4</name>
+      <styleUrl>#PolyStyle03</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-137/97-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>54835,73</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/pescaderia4.jpg' alt='EDIFICIO DE LA C/PESCADERIA, N&ordm;4' width=‘100%’ height=‘auto’ border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>1997</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,1</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.931640,43.323815,0.000000 -1.931004,43.323789,0.000000 -1.931001,43.323449,0.000000 -1.931685,43.323456,0.000000 -1.931640,43.323815,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Almacén nº3</name>
+      <styleUrl>#PolyStyle06</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-150/99-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Autoridad Portuaria de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>98590,43</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/pasajes02.jpg' alt='ALMACEN N&ordm;3' width=‘100%’ height=‘auto’ border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>1999</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>1</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.928411,43.321688,0.000000 -1.927410,43.321610,0.000000 -1.926941,43.321618,0.000000 -1.926920,43.321436,0.000000 -1.927385,43.321371,0.000000 -1.928440,43.321434,0.000000 -1.928411,43.321688,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Edificio c/Pescadería nº 23</name>
+      <styleUrl>#PolyStyle07</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-055/01-RI01</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>32460,99</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/pasajes04.jpg' alt='RUINA INDUSTRIAL SITA EN EL N&ordm;23 DE LA C/PESCADERIA' width=‘100%’ height=‘auto’ border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2001</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,5</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.931970,43.325488,0.000000 -1.931784,43.325498,0.000000 -1.931759,43.325202,0.000000 -1.931945,43.325194,0.000000 -1.931970,43.325488,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Antiguo Matadero de San Pedro</name>
+      <styleUrl>#PolyStyle07</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-103/01-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>6611,13</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/pasaia01.jpg' alt='ANTIGUO MATADERO DE SAN PEDRO ' width=‘100%’ height=‘auto’ border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2001</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,25</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.926688,43.325626,0.000000 -1.926678,43.325505,0.000000 -1.926821,43.325499,0.000000 -1.926825,43.325627,0.000000 -1.926688,43.325626,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.926677,43.325793,0.000000 -1.926672,43.325714,0.000000 -1.926777,43.325714,0.000000 -1.926781,43.325794,0.000000 -1.926677,43.325793,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Edificio c/ Pescadería nº 19-21</name>
+      <styleUrl>#PolyStyle07</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-104/01-RI01</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>28893,94</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/pasajes03.jpg' alt='RUINA INDUSTRIAL C/PESCADERIA, 19-21 ' width=‘100%’ height=‘auto’ border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2001</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,5</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.931943,43.325182,0.000000 -1.931761,43.325192,0.000000 -1.931732,43.324891,0.000000 -1.931913,43.324887,0.000000 -1.931943,43.325182,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Factoría S.E.T.E. c/Manuel Azurmendi nº 10 de Pasai Antxo</name>
+      <styleUrl>#PolyStyle010</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-059/02-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>31869,77</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/pasaia02.jpg' alt='FACTORIA S.E.T.E. ' width=‘100%’ height=‘auto’ border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2002</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,1</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.916721,43.316253,0.000000 -1.916324,43.316157,0.000000 -1.916281,43.315894,0.000000 -1.916791,43.316010,0.000000 -1.916803,43.316073,0.000000 -1.916721,43.316253,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Fábrica de Pinturas Beissier. c/ Manuel Azurmendi nº 6 y 7 de Pasai Antxo</name>
+      <styleUrl>#PolyStyle010</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-060/02-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>58150</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/pasaia02.jpg' alt='FABRICA DE PINTURAS BEISSIER ' width=‘100%’ height=‘auto’ border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2002</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>1</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.916468,43.316654,0.000000 -1.916241,43.317105,0.000000 -1.916175,43.317117,0.000000 -1.915730,43.316830,0.000000 -1.915797,43.316588,0.000000 -1.916007,43.316497,0.000000 -1.916426,43.316597,0.000000 -1.916468,43.316654,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Antigua Casa Martija. c/ Manuel Asurmendi nº 2 de Pasai Antxo</name>
+      <styleUrl>#PolyStyle010</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-061/02-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>21000</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/pasaia02.jpg' alt='ANTIGUA CASA MARTIJA' width=‘100%’ height=‘auto’ border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2002</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,15</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.915985,43.317721,0.000000 -1.915763,43.317678,0.000000 -1.915808,43.317528,0.000000 -1.916034,43.317570,0.000000 -1.915985,43.317721,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Almacén nº2</name>
+      <styleUrl>#PolyStyle013</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-051/03-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Autoridad Portuaria de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>144925,72</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2003_pasajes_almacen.jpg' width='100%' height='auto' border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2003</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,2</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.928662,43.321682,0.000000 -1.928681,43.321446,0.000000 -1.930172,43.321531,0.000000 -1.930148,43.321787,0.000000 -1.928662,43.321682,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Diversas edificaciones en Muelle Donibane</name>
+      <styleUrl>#PolyStyle013</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-064/03-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Autoridad Portuaria de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>221014,54</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2003_pasajes_donibane.JPG' width='100%' height='auto' border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2003</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>1</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.913287,43.321656,0.000000 -1.912651,43.321286,0.000000 -1.912614,43.320957,0.000000 -1.913461,43.321450,0.000000 -1.913287,43.321656,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.912645,43.321888,0.000000 -1.912718,43.321740,0.000000 -1.912666,43.321611,0.000000 -1.913184,43.321721,0.000000 -1.913161,43.321799,0.000000 -1.913257,43.321827,0.000000 -1.913211,43.322003,0.000000 -1.912645,43.321888,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.913755,43.322711,0.000000 -1.913135,43.322620,0.000000 -1.913162,43.322346,0.000000 -1.913461,43.322357,0.000000 -1.913547,43.322366,0.000000 -1.913675,43.322097,0.000000 -1.913935,43.322236,0.000000 -1.914065,43.322120,0.000000 -1.914229,43.322216,0.000000 -1.913963,43.322452,0.000000 -1.913872,43.322423,0.000000 -1.913755,43.322711,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Factoría Cartonajes Carrera. c/ Manuel Asurnmendi nº9 de Pasai Antxo</name>
+      <styleUrl>#PolyStyle013</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-048/03-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>42509</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2003_pasajes_cartonajes.jpg' width='100%' height='auto' border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2003</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,2</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.916633,43.316465,0.000000 -1.916230,43.316362,0.000000 -1.916323,43.316166,0.000000 -1.916720,43.316262,0.000000 -1.916633,43.316465,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Antigua vinagrería Louit. c/ Manuel Azurmendi nº3 de Pasai Antxo</name>
+      <styleUrl>#PolyStyle013</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-049/03-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>19521</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2003_pasajes_louit.jpg' width='100%' height='auto' border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2003</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,2</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.916032,43.317559,0.000000 -1.915838,43.317522,0.000000 -1.915923,43.317276,0.000000 -1.916085,43.317405,0.000000 -1.916032,43.317559,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Edificio Carrocerías Pasajes. c/ Manuel Asurmendi nº 1 de Pasai Antxo</name>
+      <styleUrl>#PolyStyle013</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-050/03-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>27148,54</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2003_pasajes_carrocerias.jpg' width='100%' height='auto' border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2003</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,2</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.915828,43.318181,0.000000 -1.915629,43.318110,0.000000 -1.915761,43.317684,0.000000 -1.915981,43.317728,0.000000 -1.915828,43.318181,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Pabellón nº 6. Pescados y Mariscos Rodolfo</name>
+      <styleUrl>#PolyStyle018</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-037/04-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>34436,29</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2004_pasaia_37.JPG' width='100%' height='auto' border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2004</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,5</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.937871,43.321654,0.000000 -1.937659,43.321690,0.000000 -1.937571,43.321457,0.000000 -1.937794,43.321416,0.000000 -1.937871,43.321654,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Pabellón Aizkala, S.A.</name>
+      <styleUrl>#PolyStyle018</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-038/04-RI01</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>55649,46</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2004_pasaia_38.jpg' width='100%' height='auto' border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2004</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,5</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.936204,43.322334,0.000000 -1.935920,43.322358,0.000000 -1.935693,43.322390,0.000000 -1.935639,43.322221,0.000000 -1.935788,43.322204,0.000000 -1.935767,43.322159,0.000000 -1.936304,43.322061,0.000000 -1.936325,43.322109,0.000000 -1.936136,43.322147,0.000000 -1.936204,43.322334,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Pabellón Lubricantes Volcano</name>
+      <styleUrl>#PolyStyle018</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-039/04-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>27424,85</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2004_pasaia_39.JPG' width='100%' height='auto' border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2004</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,5</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.937886,43.322267,0.000000 -1.937828,43.322267,0.000000 -1.937751,43.322015,0.000000 -1.937960,43.321983,0.000000 -1.938003,43.322150,0.000000 -1.937855,43.322173,0.000000 -1.937886,43.322267,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Pabellón Ferretería González</name>
+      <styleUrl>#PolyStyle018</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>22</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-040/04-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>7082,48</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2004_pasaia_40.JPG' width='100%' height='auto' border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2004</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,5</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.938024,43.322237,0.000000 -1.938012,43.322265,0.000000 -1.937889,43.322265,0.000000 -1.937860,43.322175,0.000000 -1.938002,43.322154,0.000000 -1.938024,43.322237,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Pabellón EustMuelle de Pysbe (Pasaia Donibane)o Sagarzazu</name>
+      <styleUrl>#PolyStyle018</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>23</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-041/04-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>39211,23</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2004_pasaia_41.jpg' width='100%' height='auto' border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2004</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>0,5</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.935672,43.322393,0.000000 -1.935427,43.322435,0.000000 -1.935293,43.322013,0.000000 -1.935289,43.321959,0.000000 -1.935373,43.321952,0.000000 -1.935455,43.322233,0.000000 -1.935613,43.322208,0.000000 -1.935672,43.322393,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Edificios Frudisk y Beroa. c/ San Marcos 24-26</name>
+      <styleUrl>#PolyStyle018</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>24</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-101/04-RI01</td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>76646,25</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2004_pasaia_frudisk_beroa_3002.JPG' width='100%' height='auto' border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2004</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>1</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.916759,43.315783,0.000000 -1.916365,43.315715,0.000000 -1.916415,43.315548,0.000000 -1.916435,43.315438,0.000000 -1.916707,43.315440,0.000000 -1.916759,43.315783,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Antigua Moliplas en Pasai Antxo</name>
+      <styleUrl>#PolyStyle018</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-102/04-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>PASAIA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Pasaia</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>54208,61</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2004_pasaia_moliplas_0024.JPG' width='100%' height='auto' border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2004</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>1</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.916790,43.316001,0.000000 -1.916286,43.315888,0.000000 -1.916344,43.315718,0.000000 -1.916759,43.315794,0.000000 -1.916790,43.316001,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
+      <name>Antiguas Instalaciones de Luzuriaga</name>
+      <styleUrl>#PolyStyle018</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Dato:</th>
+<th width="50&#37;" align="left">Valor:</th>
+</tr>
+<tr>
+<td>NUMERO</td>
+<td>26</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>EXPEDIENTE</td>
+<td>3HI-092/04-RI01 </td>
+</tr>
+<tr>
+<td>MUNICIPIO</td>
+<td>DONOSTIA-SAN SEBASTI</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>BENEF</td>
+<td>Ayuntamiento de Donostia-San Sebastián</td>
+</tr>
+<tr>
+<td>IMPORTE</td>
+<td>196802,84</td>
+</tr>
+<tr bgcolor="#FFF" align="center">
+<td colspan="2" rowspan="1" valign="top"><img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2004_donostia_luzuriaga2.jpg' width='100%' height='auto' border='0' /><br/><br/>
+<img src='http://www.ingurumena.ejgv.euskadi.net/r49-565/es/contenidos/informacion/ruinas_industriales/es_1159/images/2004_donostia_luzuriaga9.jpg' width='100%' height='auto' border='0' />
+</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>AÑO</td>
+<td>2004</td>
+</tr>
+<tr>
+<td>Ha</td>
+<td>1</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> -1.917637,43.314365,0.000000 -1.917219,43.314202,0.000000 -1.917286,43.314095,0.000000 -1.917122,43.314034,0.000000 -1.917731,43.313191,0.000000 -1.917865,43.313236,0.000000 -1.918211,43.312768,0.000000 -1.918431,43.312836,0.000000 -1.918151,43.313252,0.000000 -1.918366,43.313342,0.000000 -1.917637,43.314365,0.000000</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ccffffff</color>
+      <width>1.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>ccffe8be</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="PolyStyle01">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ccffffff</color>
+      <width>1.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>cc00ffff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="PolyStyle02">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ccffffff</color>
+      <width>1.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>cc00bfff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="PolyStyle03">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ccffffff</color>
+      <width>1.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>cc0080ff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="PolyStyle06">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ccffffff</color>
+      <width>1.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>cc0040ff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="PolyStyle07">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ccffffff</color>
+      <width>1.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>cc0000ff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="PolyStyle010">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ccffffff</color>
+      <width>1.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>cc00a838</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="PolyStyle013">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ccffffff</color>
+      <width>1.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>cc00e698</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Style id="PolyStyle018">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ccffffff</color>
+      <width>1.000000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>ccdf73ff</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
